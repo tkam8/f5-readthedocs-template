@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "BIG-IQ 6.1 Setup Guide"
+classname = "F5 RDT Template"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/tkam8/f5bigiq-setupguide"
+github_repo = "https://github.com/tkam8/f5-readthedocs-template"
 
 # OPTIONAL: Google Analytics
 # googleanalytics_id = 'UA-85156643-4'
@@ -73,7 +73,7 @@ on_snops = os.environ.get('SNOPS_ISALIVE', None) == 'True'
 print "on_rtd = %s" % on_rtd
 print "on_snops = %s" % on_snops
 
-github_url = "https://github.com/tkam8/f5bigiq-setupguide"
+github_url = "https://github.com/tkam8/f5-readthedocs-template"
 
 branch_map = {
     "stable":"master",
@@ -151,7 +151,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'F5 BIG-IQ Quick Setup'
+project = u'F5 RDT Template'
 copyright = u'F5 Networks, Inc.'
 author = u'F5 Networks, Inc.'
 
@@ -226,7 +226,7 @@ html_show_sourcelink = True
 html_show_copyright = True
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'F5BIGIQSetupGuide'
+htmlhelp_basename = 'F5RDTTEMPLATE'
 
 # -- Options for HTMLHelp output ------------------------------------------
 
