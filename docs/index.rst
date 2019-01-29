@@ -83,8 +83,10 @@ First folder (lab) of your training guide
 
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
+   :maxdepth: 2
    :caption: Contents:
    :glob:
 
    class*/class*
+   module*/module*
