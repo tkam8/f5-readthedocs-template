@@ -1,4 +1,4 @@
-Module 1: Troubleshooting
+Module 3: Troubleshooting
 ===========================
 
 **Goal:**
