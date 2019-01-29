@@ -8,14 +8,15 @@ This template will help you create documentation based on `Sphinx <http://www.sp
 Clone this repository using SourceTree as the Git client, modify the content, then change the origin to your own new remote (on GitHub) repository that will manage your own content. 
 
 About this page (index.rst):
-- Default top level page with information about your project and table of contents. You must include the ``.. toctree::`` directive to tell Sphinx about the hierarchy structure of your sub-pages. 
-- maxdepth tells sphinx how many sub-levels there are.
-- caption is the name that will be displayed above your toc
-- glob will read all files specified and automatically create a menu. Use asterisks to match multiple files.
+  - Default top level page with information about your project and table of contents. You must include the ``.. toctree::`` directive to tell Sphinx about the hierarchy structure of your sub-pages. 
+  - maxdepth tells sphinx how many sub-levels there are.
+  - caption is the name that will be displayed above your toc
+  - glob will read all files specified and automatically create a menu. Use asterisks to match multiple files.
 
 References:
-       - toctree: https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/MenuHierarchy.html
-       - restructuredText: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
+  - Sphinx and Read the Docs: https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
+  - toctree: https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/MenuHierarchy.html
+  - restructuredText: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
 
 Sample **docs** Folder Hierarchy
 --------------------------------
