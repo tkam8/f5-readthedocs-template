@@ -4,14 +4,18 @@
 Welcome Page For Your F5 RTD Documentation!
 ==============================================
 
-- This is your default top level page with information about your project and table of contents. You must include the ``.. toctree::`` directive to tell Sphinx about the hierarchy structure of your sub-pages. 
-- maxdepth tells sphins how many sub-levels there are.
+This template will help you create documentation based on `Sphinx <http://www.sphinx-doc.org/en/master/>`__ documentation generation tool. It uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`__ markup language to modify the text as you see it on this page. 
+Clone this repository using SourceTree as the Git client, modify the content, then change the origin to your own new remote (on GitHub) repository that will manage your own content. 
+
+About this page (index.rst):
+- Default top level page with information about your project and table of contents. You must include the ``.. toctree::`` directive to tell Sphinx about the hierarchy structure of your sub-pages. 
+- maxdepth tells sphinx how many sub-levels there are.
 - caption is the name that will be displayed above your toc
 - glob will read all files specified and automatically create a menu. Use asterisks to match multiple files.
 
 References:
-     - https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/MenuHierarchy.html
-     - https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
+       - toctree: https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/MenuHierarchy.html
+       - restructuredText: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
 
 Sample **docs** Folder Hierarchy
 --------------------------------
@@ -79,7 +83,7 @@ First folder (lab) of your training guide
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
    :glob:
 

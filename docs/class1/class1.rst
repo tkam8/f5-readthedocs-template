@@ -13,9 +13,11 @@ Contains a more detailed description of the lab/guide, lab goals, as well as pre
 Add if any
 
 .. toctree::
+   :titlesonly:
    :maxdepth: 2
    :caption: Contents:
    :glob:
 
    intro
    module*/module*
+

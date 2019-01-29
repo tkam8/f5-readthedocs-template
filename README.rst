@@ -5,7 +5,7 @@ This repository contains the source for F5 readthedocs Template.
 
 To view the documentation please visit:
 
-TBD
+https://f5-readthedocs-template.readthedocs.io/en/latest/
 
 
 Support
