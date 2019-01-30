@@ -32,6 +32,9 @@ About the `table of contents <https://docs.typo3.org/typo3cms/HowToDocument/Writ
 Other files and folder in this **doc** directory:
 ------------------------------------
 
+.. NOTE::
+   The below files are required by Sphinx. Modify as instructed below to customize for your project. 
+
 docs > **conf.py** 
 ~~~~~~~~~~~~~~~~~~
 Python configuration file used by Sphinx (documentation tool). Make below arguments to customize this file.

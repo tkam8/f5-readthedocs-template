@@ -1,7 +1,7 @@
 Welcome Page For Your F5\ :sup:`®` RTD Documentation!
 ==============================================
 
-This template will help you create documentation based on `Sphinx <http://www.sphinx-doc.org/en/master/>`__ documentation generation tool. It uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`__ markup language to modify the text as you see it on this page. 
+This template contains the minimum necessary files and folder structure to build documentation based on `Sphinx <http://www.sphinx-doc.org/en/master/>`__ documentation generation tool. It uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`__ markup language to modify the text as you see it on this page. 
 Clone this repository using SourceTree as the Git client, modify the content, then change the origin to your own new remote (on GitHub) repository that will manage your own content. 
 
 Why Documentation?
