@@ -1,41 +1,33 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome Page For Your F5 RTD Documentation!
+F5\ :sup:`®` RTD Documentation Index
 ==============================================
-
-This template will help you create documentation based on `Sphinx <http://www.sphinx-doc.org/en/master/>`__ documentation generation tool. It uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`__ markup language to modify the text as you see it on this page. 
-Clone this repository using SourceTree as the Git client, modify the content, then change the origin to your own new remote (on GitHub) repository that will manage your own content. 
-
-About this page (index.rst):
-  - Default top level page with information about your project and table of contents. You must include the ``.. toctree::`` directive to tell Sphinx about the hierarchy structure of your sub-pages. 
-  - maxdepth tells sphinx how many sub-levels there are.
-  - caption is the name that will be displayed above your toc
-  - glob will read all files specified and automatically create a menu. Use asterisks to match multiple files.
-
-References:
-  - Sphinx and Read the Docs: https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
-  - toctree: https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/MenuHierarchy.html
-  - restructuredText: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
 
 Sample **docs** Folder Hierarchy
 --------------------------------
 This repo uses below folder hierarchy to provide an example structure for your guide. You can modify as needed. 
 Reference: https://sphinx-rtd-tutorial.readthedocs.io/en/latest/folders.html 
 
-- class1: F5 ADC
-       - module1: Onboarding
-             - lab1: Provisioning
-             - lab2: setup wizard
-       - module2: Configuration Deployment
-             - lab1: profiles
-             - lab2: pool and pool members
-             - lab3: virtual server
-       - module3: Troubleshooting
-             - lab1: qkview
-             - lab2: logs
-- class2: F5 Security
-- class3: F5 Automation and Orchestration
+- class1: Environment Setup
+       - module1: GitHub Setup & Create new repository
+       - module2: Read The Docs Setup
+       - module3: Sourcetree Setup
+       - module4: VS Code Setup
+- class2: Clone Template and Edit Content 
+       - module1: Clone to Local
+       - module2: Edit Content
+       - module3: reStructuredText overview
+- class3: Commit Changes and Confirm Webpage
+       - module1: Confirm and Commit Changes from Sourcetree
+       - module2: Confirm build and Document in Read the Docs
+
+About the `table of contents <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/MenuHierarchy.html>`__ syntax (view the raw format of this page to see code):
+  - Default top level page with information about your project and table of contents. You must include the ``.. toctree::`` directive to tell Sphinx about the hierarchy structure of your sub-pages
+  - titlesonly displays just the main title in the toc, not the sub sections
+  - maxdepth tells sphinx how many sub-levels there are
+  - caption is the name that will be displayed above your toc
+  - glob will read all files specified and automatically create a menu. Use asterisks to match multiple files
 
 Other files and folder in this **doc** directory:
 ------------------------------------
@@ -61,11 +53,11 @@ Used to set variables that define the location relevant files. Modify below argu
 
 docs > **preamble.tex**
 ~~~~~~~~~~~~~~~~~~~~~~~
-Used to define the look and feel of the pdf version of your document. Used by LaTex. No modification needed
+Used to define the look and feel of the pdf version of your document. Used by LaTex. No modification needed.
 
 docs > **_static**
 ~~~~~~~~~~~~~~~~~~
-Folder that stores static graphics and css files for your theme
+Folder that stores static graphics and css files for your theme.
 
 docs > **_templates**
 ~~~~~~~~~~~~~~~~~~~~~
