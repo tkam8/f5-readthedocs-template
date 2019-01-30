@@ -11,6 +11,9 @@ Instructions:
 
 #. Click **Stage All** to prepare them for commit. Then type in a comment in the comment box describing the changes, check **Push changes immediately to origin/master**, then click Commit to apply the changes to your GitHub repository.
 
+   .. NOTE::
+      Sourcetree will upload all files and folders to your new repository. 
+
    |mod-1-2|
 
 This completes committing changes to GitHub repository.
