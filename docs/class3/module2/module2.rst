@@ -1,4 +1,4 @@
-Module 1: Confirm build and Document in Read the Docs
+Module 2: Confirm build and Document in Read the Docs
 ===========================
 
 You will clone the `f5-readthedocs-template <https://github.com/tkam8/f5-readthedocs-template>`__ to your PC so you can edit the local copy. 

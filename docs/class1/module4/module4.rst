@@ -1,4 +1,4 @@
-Module 2: VS Code Setup
+Module 4: VS Code Setup
 ===========================
 
 `Visual Studio Code <https://code.visualstudio.com/>`__ is a free code editing application that you can use to edit your documentation content. Feel free to choose another code editor of choice.

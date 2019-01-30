@@ -1,4 +1,4 @@
-Module 2: Sourcetree Setup
+Module 3: Sourcetree Setup
 ===========================
 
 `Sourcetree <https://www.sourcetreeapp.com/>`__ is a Git client for that makes it easy to manage your repository from your PC. Supports Windows and macOS. 

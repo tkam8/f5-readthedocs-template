@@ -81,5 +81,6 @@ First folder (lab) of your training guide
    :caption: Contents:
    :glob:
 
+   intro
    class*/class*
    module*/module*
