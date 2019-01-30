@@ -15,19 +15,19 @@ Instructions:
 
 #. Access `Read the Docs <https://readthedocs.org/>`__ and create an account if you do not already have one 
 
- |mod-2-1|
+   |mod-2-1|
 
 #. In the top right corner, click **Settings**, then **Connected Services**. Grant access to your GitHub account you created earlier
 
- |mod-2-2|
+   |mod-2-2|
 
 #. In the tope right corner, click **My Projects**, then click **Import a Project**
 
- |mod-2-3|
+   |mod-2-3|
 
 #. Click the + button for the repository you created earlier to import into Read the Docs. 
 
- |mod-2-4|
+   |mod-2-4|
 
 This completes Read the Docs setup. Whenever you make a commit to the project's repo, Read the Docs will automatically build the document. 
 

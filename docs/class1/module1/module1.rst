@@ -17,15 +17,15 @@ Instructions:
 
 #. Access `GitHub <https://github.com>`__ and create an account if you do not already have one
 
- |mod-1-1|
+   |mod-1-1|
 
 #. Click **Start a project**
 
- |mod-1-2|
+   |mod-1-2|
 
 #. Type in a name for your new repo. Leave the **Initialize this repository with a README** unchecked as there is already a README, .gitignore, and license file in this template. 
 
- |mod-1-3|
+   |mod-1-3|
 
 This completes GitHub setup. You now have a blank repository in your GitHub account. 
 

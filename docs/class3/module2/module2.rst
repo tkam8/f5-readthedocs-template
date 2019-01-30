@@ -9,11 +9,11 @@ Instructions:
 
 #. Once the GitHub commit is complete, navigate to your project on Read the Docs, and click on **Builds** to confirm the build process completes.
 
- |mod-2-1|
+   |mod-2-1|
 
 #. Once the build is complete (passed), you can click on **View Docs** to display your new documentation. 
 
- |mod-2-2|
+   |mod-2-2|
 
 This completes the final steps to create your documentation. You can continue to update the content as necessary and the changes will automatically be reflected on your website.
 

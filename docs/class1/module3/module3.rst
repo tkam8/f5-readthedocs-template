@@ -15,7 +15,7 @@ Instructions:
 
 #. Access `Sourcetree <https://www.sourcetreeapp.com/>`__ and download the app (Windows or Mac OS X)
 
- |mod-3-1|
+   |mod-3-1|
 
 #. Install Sourcetree. Use the setup wizard to guide you to create an Atlassian account and connect to GitHub. You will clone a repository in the next class. Refer to the `install guide <https://confluence.atlassian.com/get-started-with-sourcetree/install-sourcetree-847359094.html>`__ if needed. 
 

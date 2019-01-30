@@ -5,8 +5,8 @@ reStructuredText is the default plain text markup language used by Sphinx, the d
 
 You can refer to many cheatsheets online to look up syntax. For instance: 
 
-https://docs.anaconda.com/restructuredtext/detailed/ 
-http://docutils.sourceforge.net/docs/user/rst/quickref.html 
+- https://docs.anaconda.com/restructuredtext/detailed/ 
+- http://docutils.sourceforge.net/docs/user/rst/quickref.html 
 
 
 Other files and folder in this directory:

@@ -13,15 +13,15 @@ Instructions:
 
 ``https://github.com/tkam8/f5-readthedocs-template``
 
- |mod-1-1|
+   |mod-1-1|
 
 #. In order to commit changes to your own repository, you must change the remote origin path. Click the **Repository** menu > **Repository Settings...**, select the origin repository path and click **Edit**
 
- |mod-1-2|
+   |mod-1-2|
 
 #. Paste the URL to your empty repository and click **OK**
 
- |mod-1-3|
+   |mod-1-3|
 
 This completes cloning the template. You now have a local copy of the f5-readthedocs-template, which are all the files necessary to create a document on Read the Docs. You also changed the origin to point to your own personal repository.
 

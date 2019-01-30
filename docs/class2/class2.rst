@@ -10,6 +10,7 @@ To clone the f5-readthedocs-template and begin editing the content.
 - Complete class1: Environment Setup
 
 .. toctree::
+   :titlesonly:
    :maxdepth: 2
    :caption: Contents:
    :glob:

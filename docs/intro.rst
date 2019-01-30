@@ -17,9 +17,10 @@ Why Documentation?
 
 .. NOTE::
    F5 Official document sites will remain the source of truth. Documentation you create on Read the Docs will be supplementary and mainly for specific purposes like hands-on training and workshops.
-   - AskF5 <https://support.f5.com/csp/home>
-   - F5 Cloud Docs <https://clouddocs.f5.com/>
-   - F5 DevCentral <https://devcentral.f5.com/>
+
+      - AskF5 <https://support.f5.com/csp/home>
+      - F5 Cloud Docs <https://clouddocs.f5.com/>
+      - F5 DevCentral <https://devcentral.f5.com/>
 
 References:
   - Sphinx and Read the Docs: https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html

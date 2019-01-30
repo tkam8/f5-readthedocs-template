@@ -20,7 +20,7 @@ Instructions:
 
 #. Access `VS Code <https://code.visualstudio.com/>`__ and download the app (Windows or Mac OS X)
 
- |mod-4-1|
+   |mod-4-1|
 
 #. Install VS Code. Follow the official guide for your OS as needed: 
 
