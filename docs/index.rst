@@ -60,12 +60,12 @@ Used to define the look and feel of the pdf version of your document. Used by La
 
 docs > **_static**
 ~~~~~~~~~~~~~~~~~~
-Folder that stores static graphics and css files for your theme.
+Folder that stores static graphics and css files for your theme. No modification needed.
 
 docs > **_templates**
 ~~~~~~~~~~~~~~~~~~~~~
 Folder that stores files that can be used to overwrite theme files for more customizability.
-Current contents use the `F5 clouddocs <https://clouddocs.f5.com/>`__ theme.
+Current contents use the `F5 clouddocs <https://clouddocs.f5.com/>`__ theme. No modification needed.
 
 docs > **class1**
 ~~~~~~~~~~~~~~~~~
