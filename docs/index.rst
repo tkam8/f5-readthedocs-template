@@ -1,7 +1,7 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-F5\ :sup:`®` RTD Documentation Index
+F5 RTD Documentation Index
 ==============================================
 
 Sample **docs** Folder Hierarchy
@@ -56,16 +56,16 @@ Used to set variables that define the location relevant files. Modify below argu
 
 docs > **preamble.tex**
 ~~~~~~~~~~~~~~~~~~~~~~~
-Used to define the look and feel of the pdf version of your document. Used by LaTex. No modification needed.
+**No modification needed**. Used to define the look and feel of the pdf version of your document. Used by LaTex. 
 
 docs > **_static**
 ~~~~~~~~~~~~~~~~~~
-Folder that stores static graphics and css files for your theme. No modification needed.
+**No modification needed**. Folder that stores static graphics and css files for your theme. 
 
 docs > **_templates**
 ~~~~~~~~~~~~~~~~~~~~~
-Folder that stores files that can be used to overwrite theme files for more customizability.
-Current contents use the `F5 clouddocs <https://clouddocs.f5.com/>`__ theme. No modification needed.
+**No modification needed**. Folder that stores files that can be used to overwrite theme files for more customizability.
+Current contents use the `F5 clouddocs <https://clouddocs.f5.com/>`__ theme. 
 
 docs > **class1**
 ~~~~~~~~~~~~~~~~~
