@@ -437,6 +437,11 @@ htmlhelp_basename =  cleanname + 'doc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
+# Setting the latex engine to support Japanese projects
+# https://docs.readthedocs.io/en/stable/guides/pdf-non-ascii-languages.html
+latex_engine = 'platex'
+latex_use_xindy = False
+
 front_cover_image = 'front_cover'
 back_cover_image = 'back_cover'
 
