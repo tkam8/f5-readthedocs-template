@@ -13,7 +13,7 @@ To set up your environment so you can use all the resources needed to create you
 Other files and folder in this directory:
 ------------------------------------
 
-docs/**class1** > **workflow.rst** 
+docs/**class1**/**workflow.rst** 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Displays the overall workflow used to create your document. 
 
