@@ -130,9 +130,8 @@ todo_include_todos = True
 # a list of builtin themes.
 html_theme = 'sphinx_rtd_theme'
 
-if on_rtd:
-   templates_path = ['_templates']
-
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ['_templates']
 
 
 # Theme options are theme-specific and customize the look and feel of a theme
