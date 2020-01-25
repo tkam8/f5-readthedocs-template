@@ -32,7 +32,7 @@ This completes GitHub setup. You now have a blank repository in your GitHub acco
 Other files and folder in this directory:
 ------------------------------------
 
-docs > **class2** > **module1** > **images**
+docs/**class2**/**module1**/**images**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Folder used to store images used in module1.rst  
 

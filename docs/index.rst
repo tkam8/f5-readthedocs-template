@@ -35,39 +35,32 @@ Other files and folder in this **doc** directory:
 .. NOTE::
    The below files are required by Sphinx. Modify as instructed below to customize for your project. 
 
-docs > **conf.py** 
+docs/**conf.py** 
 ~~~~~~~~~~~~~~~~~~
 Python configuration file used by Sphinx (documentation tool). Make below arguments to customize this file.
 
 - classname (line 8): This is the name of your lab, used in multiple areas like when creating a pdf
-- github_repo (line 11): The location of your github repo, used for the rst_prolog
-      
-      - https://www.sphinx-doc.org/en/master/usage/configuration. 
-
 - github_url (line 76): The location of your github repo, displayed as the "Edit on GitHub" hyperlink in the html body
 - project (line 154): This is the name of the project, used when printing pdf or epub
-- htmlhelp_basename (line 229): Output file base name for HTML help builder.
 
-docs > **Makefile** and **make.bat**
+docs/**Makefile** and **make.bat**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Used to set variables that define the location relevant files. Modify below arguments to customize this file.
+**No modification needed**. Used to set variables that define the location relevant files. Modify below arguments to customize this file.
 
-- SPHINXPROJ: You can change to the name of your project
-
-docs > **preamble.tex**
+docs/**preamble.tex**
 ~~~~~~~~~~~~~~~~~~~~~~~
 **No modification needed**. Used to define the look and feel of the pdf version of your document. Used by LaTex. 
 
-docs > **_static**
+docs/**_static**
 ~~~~~~~~~~~~~~~~~~
 **No modification needed**. Folder that stores static graphics and css files for your theme. 
 
-docs > **_templates**
+docs/**_templates**
 ~~~~~~~~~~~~~~~~~~~~~
 **No modification needed**. Folder that stores files that can be used to overwrite theme files for more customizability.
 Current contents use the `F5 clouddocs <https://clouddocs.f5.com/>`__ theme. 
 
-docs > **class1**
+docs/**class1**
 ~~~~~~~~~~~~~~~~~
 First folder (lab) of your training guide
 

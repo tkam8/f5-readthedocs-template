@@ -20,7 +20,7 @@ This completes the final steps to create your documentation. You can continue to
 Other files and folder in this directory:
 ------------------------------------
 
-docs > **class3** > **module2** > **images**
+docs/**class3**/**module2**/**images**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Folder used to store images used in module2.rst  
 

@@ -28,7 +28,7 @@ This completes cloning the template. You now have a local copy of the f5-readthe
 Other files and folder in this directory:
 ------------------------------------
 
-docs > **class2** > **module1** > **images**
+docs/**class2**/**module1**/**images**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Folder used to store images used in module1.rst  
 

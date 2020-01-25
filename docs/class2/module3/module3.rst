@@ -12,6 +12,6 @@ You can refer to many cheatsheets online to look up syntax. For instance:
 Other files and folder in this directory:
 ------------------------------------
 
-docs > **class2** > **module3** > **images**
+docs/**class2**/**module3**/**images**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Folder used to store images used in module3.rst  
