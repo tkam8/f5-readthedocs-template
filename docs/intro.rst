@@ -1,4 +1,4 @@
-Welcome Page For Your F5\ :sup:`®` RTD Documentation!
+Welcome Page For Your F5 RTD Documentation!
 ==============================================
 
 This template contains the minimum necessary files and folder structure to build documentation based on `Sphinx <http://www.sphinx-doc.org/en/master/>`__ documentation generation tool. It uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`__ markup language to modify the text as you see it on this page. 

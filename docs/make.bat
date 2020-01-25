@@ -7,7 +7,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=F5BIGIQSetupGuide
+set SPHINXPROJ=F5SetupGuide
 
 if "%1" == "" goto help
 
